@@ -1,0 +1,22 @@
+html, body {
+    font-size: 20px;
+}
+
+.selected {
+    background-color: #1E8EC4 ;
+}
+.poubelle {
+    display: none;
+}
+
+.panel {
+    height: 250px;
+}
+.table {
+    height: 600px;
+
+}
+.btn-primary {
+    font-size: 26px;
+    margin-right: 2%;
+}
